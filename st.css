@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+    text-align: center;
+    padding: 1rem 2rem;
+}
+img {
+    float: right;
+}
+
+span {
+    float: left;
+}
+
+div {
+    justify-content: center;
+}
